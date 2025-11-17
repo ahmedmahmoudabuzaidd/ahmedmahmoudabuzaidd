@@ -70,7 +70,7 @@ Strong understanding of automation, troubleshooting, and continuous delivery bes
 **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedmahmoudabuzaidd&theme=react&show_icons=true&count_private=true&hide_title=false&hide_rank=false&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedmahmoudabuzaidd&theme=react&show_icons=true&count_private=true" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmahmoudabuzaidd&theme=react&layout=compact&langs_count=6" alt="GitHub top-langs Card" />
 </p>
 
@@ -82,4 +82,3 @@ Strong understanding of automation, troubleshooting, and continuous delivery bes
   <a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge" height="36" style="margin-right: 4px"></a>
   <a href="https://www.buymeacoffee.com/sushil" target="_blank"><img src="https://img.shields.io/badge/BuyMeACoffee-F5A623?logo=buymeacoffee&logoColor=white&style=for-the-badge" height="36"></a>
 </p>
-
