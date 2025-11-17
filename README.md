@@ -1,21 +1,53 @@
-# 💫 About Me:
-👨‍💻 Summary<br><br>Junior DevOps Engineer with one year of hands-on experience implementing and maintaining CI/CD pipelines using Jenkins, GitHub Actions, and Argo CD.<br>Experienced in containerizing applications and working with Kubernetes clusters. Skilled in infrastructure provisioning with Terraform, monitoring with Prometheus and Grafana, and configuration management using Ansible.<br><br>Strong understanding of automation, troubleshooting, and continuous delivery best practices.<br>Adept at collaborating with cross-functional teams to deliver high-quality solutions. Currently expanding my expertise in AWS services to strengthen my DevOps skill set.<br><br>Motivated to contribute to innovative projects and continuously grow in a dynamic engineering environment.
+![👋 Hi, I'mAhmed Mahmoud | DevOps Engineer | Linux Admin ](https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg)
 
+![Profile views](https://komarev.com/ghpvc/?username=ahmedmahmoudabuzaidd&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mahmoud-abuzaid-49a800226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiOk1odq5QKmLdesJHV2r6A%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedabuzaid316@gmail.com) 
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, I'mAhmed Mahmoud | DevOps Engineer | Linux Admin 
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedmahmoudabuzaidd&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedmahmoudabuzaidd&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmahmoudabuzaidd&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="ahmedabuzaid316@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/ahmedabuzaid316@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ahmedabuzaid316@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedmahmoudabuzaidd&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+ **<h3 align="left">👨‍💻 Summary : 
 
----
-[![](https://visitcount.itsvg.in/api?id=ahmedmahmoudabuzaidd&icon=0&color=0)](https://visitcount.itsvg.in)
+Junior DevOps Engineer with one year of hands-on experience implementing and maintaining CI/CD pipelines using Jenkins, GitHub Actions, and Argo CD. 
+Experienced in containerizing applications and working with Kubernetes clusters. Skilled in infrastructure provisioning with Terraform, monitoring with Prometheus and Grafana, and configuration management using Ansible.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Strong understanding of automation, troubleshooting, and continuous delivery best practices. 
+Adept at collaborating with cross-functional teams to deliver high-quality solutions. Currently expanding my expertise in AWS services to strengthen my DevOps skill set.
+
+Motivated to contribute to innovative projects and continuously grow in a dynamic engineering environment.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 Deploye/Implment 3 Tier App on Openshift Cluster **
+- 🌱 I'm currently learning: **📚 Expanding my expertise in AWS services to strengthen my DevOps skill set.**
+- 💬 Ask me about: **💡 Linux , Ansible , Bash Script , Docker , Kubernetes , OpenShift , AWS , Terraform , Promethues , Grafana **
+- ⚡ Fun fact: **🎢 “I talk to servers more than people — and they’re usually nicer.”**
+- 📂 Portfolio: **<a href="https://github.com/ahmedmahmoudabuzaidd/ahmedmahmoudabuzaidd" target="_blank">https://github.com/ahmedmahmoudabuzaidd/ahmedmahmoudabuzaidd</a>**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="28" alt="Ansible" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28" alt="Kubernetes" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="28" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?logo=travis-ci&logoColor=white" height="28" alt="Travis CI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="28" alt="Amazon AWS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" height="28" alt="Terraform" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="28" alt="Grafana" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="28" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="28" alt="Redis" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
+ **<h3 align="left">Support Me</h3>**
+
+<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
