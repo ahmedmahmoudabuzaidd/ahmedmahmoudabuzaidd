@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.q3tech.com/wp-content/uploads/2024/04/DevSecOps-Made-Easy-Integrating-Security-into-Development-Processes.jpg" width="100%" />
+  <img src="https://as2.ftcdn.net/v2/jpg/03/96/98/33/1000_F_396983381_AcuGFHQbNn7D9eercXFpOecN7d7B5F66.jpg" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ahmed Mahmoud</h1>
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 🔥 *Automating Everything. Securing Everything. Scaling Everything.*
+### 🔹 *DevOps matters because it bridges the gap between development and operations, enabling faster delivery, better collaboration, and more reliable software.*
 
 </div>
 
@@ -18,7 +18,8 @@
 ## 🌐 Connect With Me  
 <p align="left">
   <a href="mailto:ahmedabuzaid316@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
-  <a href="https://www.linkedin.com/in/ahmedabuzaid316/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+  <a href="https://www.linkedin.com/in/ahmed-mahmoud-abuzaid-49a800226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOmQOA%2Bv6QVi50Br1TcKPZA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+  <a href="https://wa.me/0564701824"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"></a>
   <a href="https://github.com/ahmedmahmoudabuzaidd"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="28"></a>
 </p>
 
@@ -76,7 +77,7 @@ Currently expanding my skills in **AWS Cloud** to build scalable, secure, automa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedmahmoudabuzaidd&theme=react&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedmahmoudabuzaidd&theme=react&show_icons=true&count_private=true&hide_title=false&hide_rank=false&line_height=23" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmahmoudabuzaidd&theme=react&layout=compact&langs_count=6" />
 </p>
 
@@ -85,7 +86,8 @@ Currently expanding my skills in **AWS Cloud** to build scalable, secure, automa
 ## ☕ Support Me  
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge" height="36"></a>
+  <a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge" height="36"></a>
+  <a href="https://www.buymeacoffee.com/sushil" target="_blank"><img src="https://img.shields.io/badge/BuyMeACoffee-F5A623?logo=buymeacoffee&logoColor=white&style=for-the-badge" height="36"></a>
 </p>
 
 ---
