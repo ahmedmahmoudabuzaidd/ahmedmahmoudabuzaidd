@@ -1,4 +1,4 @@
-![👋 Hi, I'mAhmed Mahmoud | DevOps Engineer | Linux Admin ](https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg)
+![👋 Hi, I'mAhmed Mahmoud | DevOps Engineer | Linux Admin ]([https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg](https://as1.ftcdn.net/v2/jpg/02/67/69/00/1000_F_267690055_93w9bxiIt0U9R0VeYptxI7UHKnWLWplV.jpg))
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahmedmahmoudabuzaidd&label=Profile%20views&color=0e75b6&style=flat)
 
