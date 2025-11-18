@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="30">
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" height="30" alt="Bash Scripting GIF">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F72897469%2Floading-gif&psig=AOvVaw2JX33VhTsj7fcl4svav08M&ust=1763550625693000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjSgprI-5ADFQAAAAAdAAAAABA7" height="30" alt="Bash Scripting GIF">
 
 </div>
 
