@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats (ORIGINAL SIZE – NOT MODIFIED 🔥)
+## 📊 GitHub Stats 
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=19" />
