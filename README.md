@@ -53,7 +53,7 @@ Motivated to contribute to innovative projects and continuously grow in a dynami
 
 - 💼 I'm currently working on: 💻 Deploye/Implment 3 Tier App on Openshift Cluster 
 - 🌱 I'm currently learning: **📚 Expanding my expertise in AWS services to strengthen my DevOps skill set.**
-- 💬 Ask me about: **💡 Linux , Ansible , Bash Script , Docker , Kubernetes , OpenShift , AWS , Terraform , Promethues , Grafana **
+- 💬 Ask me about: 💡 Linux , Ansible , Bash Script , Docker , Kubernetes , OpenShift , AWS , Terraform , Promethues , Grafana 
 - ⚡ Fun fact: **🎢 “I talk to servers more than people — and they’re usually nicer.”**
 - 📂 Portfolio: **<a href="https://github.com/ahmedmahmoudabuzaidd/ahmedmahmoudabuzaidd" target="_blank">https://github.com/ahmedmahmoudabuzaidd/ahmedmahmoudabuzaidd</a>**
 
