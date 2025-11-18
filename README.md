@@ -1,6 +1,7 @@
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Ahmed Mahmoud | DevOps Engineer | Linux Admin</h1>
@@ -22,26 +23,21 @@
 ---
 
 ## 🧩 Summary  
-🚀 Junior DevOps Engineer with hands-on experience in **CI/CD**, **Containerization**, **Kubernetes**, **Monitoring**, and **Infrastructure as Code**.
+🚀 Junior DevOps Engineer with practical experience in **CI/CD**, **Kubernetes**, **Containers**, **Automation**, and **Cloud**.
 
-Skilled in:  
-✔ Jenkins  
-✔ GitHub Actions  
-✔ Argo CD  
-✔ Terraform  
-✔ Ansible  
-✔ Prometheus & Grafana  
-✔ Linux & Bash  
-✔ Docker & Kubernetes  
-✔ AWS (currently expanding expertise)
+📌 Skilled in Jenkins, GitHub Actions, ArgoCD, Docker, Kubernetes, Terraform, Ansible, Linux, Prometheus, Grafana, and Bash scripting.
+
+🔥 Passionate about automation, problem-solving, and delivering stable infrastructure.
+
+📚 Currently leveling up with **AWS Cloud services**.
 
 ---
 
 ## ⚡ Rapid Fire  
 - 💼 Working on: **3-Tier Application Deployment on OpenShift**
-- 🌱 Learning: **AWS Cloud Architecture**
-- 💬 Ask me about: Linux | Docker | Ansible | Kubernetes | Terraform | AWS | Monitoring
-- 🤖 Fun fact: _“I talk to servers more than people — and they always respond politely 😄”_
+- 🌱 Learning: **AWS Cloud Architecting**
+- 💬 Ask me about: Linux | Docker | Kubernetes | Ansible | Terraform | AWS | Monitoring
+- 🤖 Fun fact: _“I talk to servers more than people — and they always listen 😄”_
 - 📂 Portfolio: https://github.com/ahmedmahmoudabuzaidd
 
 ---
@@ -66,34 +62,31 @@ Skilled in:
 
 ---
 
-## 📊 GitHub Stats (FULL WIDTH)
+## 📊 GitHub Stats (ORIGINAL SIZE – NOT MODIFIED 🔥)
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&layout=compact&langs_count=6&hide_progress=false" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=19" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" />
 </p>
 
 ---
 
-# 📁 Projects  
-## 🔽 Click to Expand  
+# 📁 Projects — Now Fully Customized with Icons + Animations + Collapsible Cards
+
+### 🔽 Click to Expand Each Project  
 
 ---
 
 <details>
 <summary><b>🖥 Linux Infrastructure Project</b></summary>
 <br>
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2dY/giphy.gif" width="260" align="right"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2dY/giphy.gif" width="280" align="right"/>
 
 🔗 https://github.com/ahmedmahmoudabuzaidd/linux-infra-project  
-
-✔ Multi-VM Linux setup  
-✔ Zabbix monitoring  
-✔ Bash automation  
-✔ Backup solutions  
+✔ Linux VMs setup  
+✔ Zabbix Monitoring  
+✔ Bash Automation  
+✔ Backup Scripts  
 </details>
 
 ---
@@ -101,15 +94,14 @@ Skilled in:
 <details>
 <summary><b>🚀 End-to-End DevOps Project</b></summary>
 <br>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260" align="right"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" align="right"/>
 
 🔗 https://github.com/ahmedmahmoudabuzaidd/end2end-project  
-
+✔ Docker + Kubernetes  
 ✔ GitHub Actions CI/CD  
-✔ Docker & Kubernetes  
 ✔ Argo CD GitOps  
-✔ Terraform provisioning  
-✔ Full monitoring stack  
+✔ Terraform Provisioning  
+✔ Monitoring Stack (Prometheus + Grafana)  
 </details>
 
 ---
@@ -117,13 +109,12 @@ Skilled in:
 <details>
 <summary><b>🐚 Bash Scripts Collection</b></summary>
 <br>
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="260" align="right"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="280" align="right"/>
 
 🔗 https://github.com/ahmedmahmoudabuzaidd/Bash-Script  
-
 ✔ System automation  
-✔ Hardening scripts  
-✔ Monitoring tools  
+✔ Monitoring scripts  
+✔ Backup tools  
 </details>
 
 ---
@@ -131,15 +122,14 @@ Skilled in:
 <details>
 <summary><b>🤖 Ansible Automation</b></summary>
 <br>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" align="right"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" align="right"/>
 
 🔗 https://github.com/ahmedmahmoudabuzaidd/Ansible  
-
 ✔ Playbooks  
-✔ Deployment pipelines  
+✔ Deployment automation  
 ✔ Configuration management  
 </details>
 
 ---
 
-<p align="center"><b>⭐ If you like my work, feel free to star my repos!</b></p>
+<p align="center"><b>⭐ If you like my work, feel free to star my repositories!</b></p>
