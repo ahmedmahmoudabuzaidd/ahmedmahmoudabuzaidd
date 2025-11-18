@@ -40,11 +40,10 @@
 
 <h3 align="left">👨‍💻 Summary : 
 Junior DevOps Engineer with a year of hands-on experience implementing and maintaining CI/CD pipelines using Jenkins, GitHub Actions,
-and Argo CD.           Experienced in containerizing applications and good hands-on of experience with Kubernetes clusters. 
+and Argo CD. Experienced in containerizing applications and good hands-on of experience with Kubernetes clusters. 
 Skilled in infrastructure provisioning with Terraform, monitoring with Prometheus and Grafana, and configuration management using Ansible.
 
 Strong understanding of automation, troubleshooting, and continuous delivery best practices. 
-
 Adept at collaborating with cross-functional teams to deliver high-quality solutions. Currently expanding my expertise in AWS services to strengthen my DevOps skill set.
 
 Motivated to contribute to innovative projects and continuously grow in a dynamic engineering environment.</h3>
@@ -57,9 +56,36 @@ Motivated to contribute to innovative projects and continuously grow in a dynami
 - ⚡ Fun fact: **🎢 “I talk to servers more than people — and they’re usually nicer.”**
 - 📂 Portfolio: **<a href="https://github.com/ahmedmahmoudabuzaidd/ahmedmahmoudabuzaidd" target="_blank">https://github.com/ahmedmahmoudabuzaidd/ahmedmahmoudabuzaidd</a>**
 
+---
+
 **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="28" alt="Ansible" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28" alt="Kubernetes" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="28" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?logo=travis-ci&logoColor=white" height="28" alt="Travis CI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="28" alt="Amazon AWS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" height="28" alt="Terraform" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="28" alt="Grafana" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="28" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="28" alt="Redis" style="margin-right: 4px"></div>
+<!-- First row -->
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+<img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/Travis_CI-3EAAAF?logo=travis-ci&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="28">
+</div>
+
+<br>
+
+<!-- Second row -->
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+<img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="28">
+</div>
+
+---
 
 **<h3 align="left">GitHub Stats</h3>**
 
@@ -67,4 +93,13 @@ Motivated to contribute to innovative projects and continuously grow in a dynami
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=19" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
+
+---
+
+### **📁 Projects**
+
+- 🔗 **Linux Infrastructure Project** — https://github.com/ahmedmahmoudabuzaidd/linux-infra-project  
+- 🔗 **End-to-End DevOps Project** — https://github.com/ahmedmahmoudabuzaidd/end2end-project  
+- 🔗 **Bash Scripts Collection** — https://github.com/ahmedmahmoudabuzaidd/Bash-Script  
+- 🔗 **Ansible Automation Repo** — https://github.com/ahmedmahmoudabuzaidd/Ansible  
 
