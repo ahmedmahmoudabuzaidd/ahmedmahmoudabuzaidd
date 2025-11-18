@@ -39,8 +39,10 @@
 </p>
 
 <h3 align="left">👨‍💻 Summary : 
-Junior DevOps Engineer with one year of hands-on experience implementing and maintaining CI/CD pipelines using Jenkins, GitHub Actions, and Argo CD. 
-Experienced in containerizing applications and working with Kubernetes clusters. Skilled in infrastructure provisioning with Terraform, monitoring with Prometheus and Grafana, and configuration management using Ansible.
+Junior DevOps Engineer with a year of hands-on experience implementing and maintaining CI/CD pipelines using Jenkins, GitHub Actions,
+and Argo CD. 
+Experienced in containerizing applications and working with Kubernetes clusters. 
+Skilled in infrastructure provisioning with Terraform, monitoring with Prometheus and Grafana, and configuration management using Ansible.
 
 Strong understanding of automation, troubleshooting, and continuous delivery best practices. 
 Adept at collaborating with cross-functional teams to deliver high-quality solutions. Currently expanding my expertise in AWS services to strengthen my DevOps skill set.
