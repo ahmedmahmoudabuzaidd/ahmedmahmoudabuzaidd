@@ -44,6 +44,7 @@ and Argo CD.           Experienced in containerizing applications and good hands
 Skilled in infrastructure provisioning with Terraform, monitoring with Prometheus and Grafana, and configuration management using Ansible.
 
 Strong understanding of automation, troubleshooting, and continuous delivery best practices. 
+
 Adept at collaborating with cross-functional teams to deliver high-quality solutions. Currently expanding my expertise in AWS services to strengthen my DevOps skill set.
 
 Motivated to contribute to innovative projects and continuously grow in a dynamic engineering environment.</h3>
