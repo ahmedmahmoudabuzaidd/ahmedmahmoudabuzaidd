@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
-<h2 align="center">👋 Hi, I'm Ahmed Mahmoud | IT Manager | Infrastructure Manager | Linux Admin</h2>
+<h2 align="center">👋 Hi, I'm Ahmed Mahmoud | IT Manager | Infrastructure Manager | System Admin</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedmahmoudabuzaidd&label=Profile%20Views&color=0e75b6&style=flat-square" />
@@ -83,7 +83,7 @@ Docker, Kubernetes, Terraform, Ansible, Linux, Prometheus, Grafana, Zabbix, and 
 
 ---
 
-# 📁 Projects — Now Fully Customized with Icons + Animations + Collapsible Cards
+# 📁 Projects 
 
 ### 🔽 Click to Expand Each Project  
 
