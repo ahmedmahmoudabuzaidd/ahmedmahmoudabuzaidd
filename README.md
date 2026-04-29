@@ -46,7 +46,7 @@ Docker, Kubernetes, Terraform, Ansible, Linux, Prometheus, Grafana, Zabbix, and 
 ---
 
 ## ⚡ Rapid Fire  
-- 💼 Working on: **3-Tier Application Deployment on OpenShift**
+- 💼 Working on: **Build IT Infrastructure Department**
 - 🌱 Learning: **AWS Cloud Architecting**
 - 💬 Ask me about: Linux | Docker | Kubernetes | Ansible | Terraform | AWS | Monitoring
 - 🤖 Fun fact: _“I talk to servers more than people — and they always listen 😄”_
