@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Ahmed Mahmoud | DevOps Engineer | Linux Admin</h1>
+<h2 align="center">👋 Hi, I'm Ahmed Mahmoud | IT Manager | Infrastructure Manager | Linux Admin</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedmahmoudabuzaidd&label=Profile%20Views&color=0e75b6&style=flat-square" />
@@ -22,13 +22,23 @@
 ---
 
 ## 🧩 Summary  
-🚀 Junior DevOps Engineer with practical experience in **CI/CD**, **Kubernetes**, **Containers**, **Automation**, and **Cloud**.
 
-📌 Skilled in Jenkins, GitHub Actions, ArgoCD, Docker, Kubernetes, Terraform, Ansible, Linux, Prometheus, Grafana, and Bash scripting.
-
+🚀 IT Manager with a strong background in IT infrastructure, systems administration, and DevOps practices, with hands-on
+experience supporting enterprise environments across multiple platforms. Skilled in managing IT operations, networks,
+cloud services (AWS), and business-critical applications, ensuring high availability, security, and performance.
+Experienced in implementing ITIL-based service management, improving service delivery, and aligning IT strategy with
+business objectives. Proven ability to lead technical teams, manage vendors, control IT budgets, and deliver scalable
+solutions across multi-site operations.
+Proficient in automation, CI/CD (Jenkins, GitHub Actions, Argo CD), containerization (Docker, Kubernetes), and monitoring
+(Prometheus, Grafana, Zabbix), and configuration management (Ansible). Strong understanding of cybersecurity best
+practices, risk management, and compliance requirements within Saudi regulatory environments.
+Recognized for enhancing operational efficiency, reducing downtime, and driving digital transformation initiatives.
+Committed to continuous improvement and delivering reliable, secure, and cost-effective IT services to support
+organizational growth.
+📌 Skilled in building stable, Reliable IT Infrastructure and managing, Monitoring, Jenkins, GitHub Actions, ArgoCD, 
+Docker, Kubernetes, Terraform, Ansible, Linux, Prometheus, Grafana, Zabbix, and Bash scripting.
 🔥 Passionate about automation, problem-solving, and delivering stable infrastructure.
-
-📚 Currently leveling up with **AWS Cloud services**.
+📚 Currently leveling up with Management Skills.
 
 ---
 
