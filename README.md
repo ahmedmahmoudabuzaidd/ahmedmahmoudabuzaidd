@@ -35,9 +35,12 @@ practices, risk management, and compliance requirements within Saudi regulatory 
 Recognized for enhancing operational efficiency, reducing downtime, and driving digital transformation initiatives.
 Committed to continuous improvement and delivering reliable, secure, and cost-effective IT services to support
 organizational growth.
+
 📌 Skilled in building stable, Reliable IT Infrastructure and managing, Monitoring, Jenkins, GitHub Actions, ArgoCD, 
 Docker, Kubernetes, Terraform, Ansible, Linux, Prometheus, Grafana, Zabbix, and Bash scripting.
+
 🔥 Passionate about automation, problem-solving, and delivering stable infrastructure.
+
 📚 Currently leveling up with Management Skills.
 
 ---
